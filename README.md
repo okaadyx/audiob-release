@@ -42,6 +42,35 @@ https://github.com/okaadyx/audiob-release/releases/tag/audiob-v1
 
 ---
 
+## 📸 App Showcase
+
+### Onboarding
+| Splash | Welcome | Login | Signup |
+| :---: | :---: | :---: | :---: |
+| <img src="./screenshots/splash.jpeg" width="180" /> | <img src="./screenshots/welcome.jpeg" width="180" /> | <img src="./screenshots/login.jpeg" width="180" /> | <img src="./screenshots/signup.jpeg" width="180" /> |
+
+### Discovery
+| Home | Explore | Category | Category List |
+| :---: | :---: | :---: | :---: |
+| <img src="./screenshots/home.jpeg" width="180" /> | <img src="./screenshots/explore.jpeg" width="180" /> | <img src="./screenshots/category.jpeg" width="180" /> | <img src="./screenshots/category2.jpeg" width="180" /> |
+
+### Playback
+| Book Details | Book Episodes | Player |
+| :---: | :---: | :---: |
+| <img src="./screenshots/Book%20Details.jpeg" width="200" /> | <img src="./screenshots/Book%20episodes.jpeg" width="200" /> | <img src="./screenshots/player.jpeg" width="200" /> |
+
+### Library & Profile
+| Library | Account | Edit Profile |
+| :---: | :---: | :---: |
+| <img src="./screenshots/library.jpeg" width="200" /> | <img src="./screenshots/account.jpeg" width="200" /> | <img src="./screenshots/edit%20profile.jpeg" width="200" /> |
+
+### Premium & Support
+| Subscription | Payment | Help & Support |
+| :---: | :---: | :---: |
+| <img src="./screenshots/subscription.jpeg" width="200" /> | <img src="./screenshots/payment.jpeg" width="200" /> | <img src="./screenshots/help%20and%20support.jpeg" width="200" /> |
+
+---
+
 ## 🛠️ Build Information
 
 - Platform: Android
