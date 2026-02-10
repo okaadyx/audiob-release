@@ -24,10 +24,10 @@ This repository contains **public release builds (APK files)** of **AudioBee**, 
 
 ## 📦 Download APK
 
-You can download the **latest Android build** from the **Releases** section:
+You can download the **latest Android build** from the release page below:
 
-👉 **Latest APK:**  
-https://github.com/okaadyx/audiobee-releases/releases/latest
+👉 **AudioBee v1 APK:**  
+https://github.com/okaadyx/audiob-release/releases/tag/audiob-v1
 
 > ⚠️ Android may show an *“Install from unknown sources”* warning — this is normal for APK installs outside the Play Store.
 
@@ -47,11 +47,11 @@ https://github.com/okaadyx/audiobee-releases/releases/latest
 - Platform: Android
 - Framework: React Native (Expo)
 - Build Type: Release APK
-- Distribution: Manual / Public APK
+- Distribution: Public APK (manual install)
 
 Each release includes:
 - Versioned APK
-- Changelog / release notes
+- Release notes / changelog
 
 ---
 
@@ -62,7 +62,7 @@ This APK is shared for:
 - Demo purposes
 - Portfolio and recruiter review
 
-If you face issues or have feedback, feel free to reach out.
+Feedback and suggestions are welcome.
 
 ---
 
@@ -70,11 +70,9 @@ If you face issues or have feedback, feel free to reach out.
 
 Built with ❤️ by **okaadyx**
 
-🌐 Project website: https://audio-bee.vercel.app
-
 ---
 
 ## 📄 License
 
 All rights reserved.  
-This repository is for **binary distribution only**.
+This repository is intended for **binary distribution only**.
